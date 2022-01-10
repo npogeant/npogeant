@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 [![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=npogeant)](https://github.com/npogeant/github-readme-stats)
 
