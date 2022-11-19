@@ -1,4 +1,4 @@
-### Welcome 👋
+### Welcome ☘️
 
 - 👋 Hi, I’m Nicolas, a Junior Data Scientist with 2+ years of work experience, especially in SEO. Passionate about Data and Machine Learning, I'm always looking for more to learn and solve problems.
 - 🔭 You can find my portfolio [here](npogeant.com)
